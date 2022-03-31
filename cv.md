@@ -17,7 +17,7 @@ Skills
 - js
 
 
-# Code 
+# Code  
 ```javascript
 function highAndLow(numbers){
   numbers = numbers.split(' ').map(Number);
