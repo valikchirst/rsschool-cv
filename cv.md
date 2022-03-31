@@ -7,7 +7,7 @@ Telegram: @valik_bestugev
 # About me 
 I have been married for 8 years, have a daughter, I love my family very much and the biggest goal is to provide them with a good future developing in the IT field.
 
-# Skills
+# Skills 
 Purposefulness, learning ability, leadership.
 Skills
 - HTML
