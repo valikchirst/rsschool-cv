@@ -24,6 +24,6 @@ function highAndLow(numbers){
   return Math.max.apply(0, numbers) + ' ' + Math.min.apply(0, numbers)
 }
 ```
-# Languages
+# Languages 
 - Russian (Native speaker)
 - English (~A2 - B1)
